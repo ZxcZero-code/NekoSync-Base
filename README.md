@@ -16,7 +16,7 @@ Before using this base, ensure you have:
 1. Clone this repository:  
 
 ```bash  
-git clone https://github.com/Stevens0856/NekoSync-Base.git  
+git clone https://github.com/ZxcZero-code/NekoSync-Base.git  
 cd NekoSync-Base  
 npm install  
 ```  
