@@ -1,0 +1,88 @@
+{
+  "users": {
+    "0@s.whatsapp.net": {
+      "hitcmd": 19,
+      "attacksi": "6283123448708@s.whatsapp.net",
+      "isBattle": true,
+      "attackdigi": 53,
+      "DarahOrang": 230,
+      "tp": 5,
+      "bits": 15,
+      "kenyang": 340,
+      "happy": 100,
+      "digivice": true,
+      "recoverplug": 10,
+      "apajob": false,
+      "job": "nganggur",
+      "setname": "Veemon - Evolution",
+      "maxdarahdigi": 230,
+      "mpmax": 150,
+      "mp": 88
+    },
+    "6283123038708@s.whatsapp.net": {
+      "hitcmd": 42,
+      "pc": 1723212365590,
+      "attackdigi": 53,
+      "maxdarahdigi": 230,
+      "DarahOrang": 230,
+      "digivice": true,
+      "tp": 5,
+      "bits": 15,
+      "kenyang": 340,
+      "happy": 100,
+      "mpmax": 150,
+      "mp": 81,
+      "recoverplug": 10,
+      "attacksi": "6283117190494@s.whatsapp.net",
+      "isBattle": true,
+      "setname": "ziyo",
+      "apajob": false,
+      "job": "nganggur"
+    },
+    "6283115834692@s.whatsapp.net": {
+      "pc": 1723212845665
+    }
+  },
+  "chats": {
+    "120363319049859493@g.us": {
+      "isBanned": false
+    },
+    "6283117190494@s.whatsapp.net": {
+      "isBanned": false
+    },
+    "status@broadcast": {
+      "isBanned": false
+    },
+    "6283123448708@s.whatsapp.net": {
+      "isBanned": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "kuismath": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "tebakkalimat": [],
+    "tebaklirik": [],
+    "tebaktebakan": [],
+    "tebakbendera": [],
+    "tebakbendera2": [],
+    "tebakkabupaten": [],
+    "tebakkimia": [],
+    "tebakasahotak": [],
+    "tebaksiapakahaku": [],
+    "tebaksusunkata": [],
+    "tebaktekateki": []
+  },
+  "settings": {
+    "6283117190494@s.whatsapp.net": {
+      "autoread": false,
+      "public": true,
+      "setmenu": 1,
+      "setreply": 1
+    }
+  },
+  "others": {},
+  "sticker": {}
+}
