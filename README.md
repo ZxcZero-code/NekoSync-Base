@@ -47,7 +47,8 @@ global.urldb = ''; // MongoDB Link [Optional]
 
 ---  
 
-Thank You for Using NekoSync - Base  
+Thank You for 
+Using NekoSync - Base  
 
 ## 📄 License  
 [MIT](LICENSE) © SkyNemesis  
